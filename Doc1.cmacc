@@ -1,0 +1,6 @@
+$ who = [./Who.cmacc]
+$ what = [./What.cmacc]
+
+{{who}}
+
+{{what}}
