@@ -6,7 +6,6 @@ $ crossReference = [./CrossReference.cmacc]
 $ crossReference.who = who
 $ crossReference.what = what
 
-
 // Document
 
 {{what}}
