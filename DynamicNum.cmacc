@@ -1,0 +1,10 @@
+$ xNum = "x"
+$ xNumSec = "{{xNum}}.x"
+
+# {{#section xNum}} Test
+
+## {{#section xNumSec}} Test
+
+## {{#section xNumSec}} Test
+
+## {{#section xNumSec}} Test

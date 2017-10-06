@@ -1,0 +1,10 @@
+$ xNum = "x"
+
+$ doc = [./DynamicNum.cmacc]
+
+$ doc.xNum = "{{xNum}}.x"
+
+
+# {{#section xNum}} Header
+
+{{doc}}

@@ -1,1 +1,13 @@
-*.html
+.idea
+.DS_Store
+
+node_modules
+bower_components
+
+build
+assets
+
+yarn.lock
+npm-debug.log
+
+package-lock.json

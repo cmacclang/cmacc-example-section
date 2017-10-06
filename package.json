@@ -1,0 +1,27 @@
+{
+  "name": "cmacc-example-section",
+  "version": "0.0.1",
+  "description": "Section example",
+  "repository": "https://github.com/cmacclang/cmacc-example-section.git",
+  "author": "Willem Veelenturf <willem.veelenturf@gmail.com>",
+  "license": "MIT",
+  "flat": true,
+  "devDependencies": {
+    "cmacc-compiler": "2.1.9",
+    "cmacc-cucumber": "1.0.4",
+    "mocha": "^4.0.1",
+    "node-fetch": "^1.7.3"
+  },
+  "scripts": {
+    "test": "cmacc-cucumber"
+  },
+  "resolutions": {
+    "kind-of": "4.0.0",
+    "is-number": "3.0.0",
+    "argparse": "1.0.9",
+    "caseless": "0.12.0",
+    "boom": "5.2.0",
+    "colors": "1.1.2",
+    "d": "1.0.0"
+  }
+}

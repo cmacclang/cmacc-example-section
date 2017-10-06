@@ -1,8 +1,17 @@
 $ who = [./Who.cmacc]
-$ what = [./What.cmacc]
+$ what1 = [./What.cmacc]
+$ what2 = [./What.cmacc]
 
 # {{#section 'x'}} Cross reference
 
+{{who}}
+
+{{what1}}
+
+{{what2}}
+
 This is an reference to who {{#reference who}}
 
-This is an reference to what {{#reference what}}
+This is an reference to what {{#reference what1}}
+
+This is an reference to whatSub {{#reference what2.whatSub}}
